@@ -16,7 +16,7 @@ Github, and the second is by accessing the game folder.
 
 1.
 	Clone the repository
-	git clone link
+	git clone https://github.com/Klevix9/Card-Popper.git
 2.
 	Install packages which are available above.
 3.
@@ -45,4 +45,4 @@ Contact:
 
 Bonaparte Group  - bonaparte@gmail.com
 
-Project Link: https://github.com/your_username/repo_name
+Project Link: https://github.com/Klevix9/Card-Popper.git
